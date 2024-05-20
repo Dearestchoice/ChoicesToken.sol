@@ -5,11 +5,11 @@ Choice Token (CT) is an ERC-20 compatible token deployed on the Ethereum blockch
 
 ## Contract Information
 Contract Address: 0x6448bC8c597F10D86B9CE6D9B8d4B60c8137d0a6
-Network: Ethereum Sepolia
+Network: Arbitrium Sepolia
 
 ## Token Details
-Name: Hilda
-Symbol: HIL
+Name: Choice Token
+Symbol: CT
 Decimals: 18 decimals
 
 ## Features
@@ -21,7 +21,7 @@ Burnable: This token is burnable by the contract owner.
 ## Interacting with the Contract
 
 Prerequisites
-To interact with the Hilda Token contract, you'll need:
+To interact with this contract, you'll need:
 An Ethereum wallet (e.g., MetaMask)
 Some Sepolia to cover gas fees
 
