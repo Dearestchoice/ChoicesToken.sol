@@ -1,4 +1,4 @@
-##Choice Token (CT)
+###Choice Token (CT)
 
 ##Overview
 Choice Token (CT) is an ERC-20 compatible token deployed on the Ethereum blockchain. This README provides more information about the token, its features, and how to interact with it.
